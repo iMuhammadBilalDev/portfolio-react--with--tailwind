@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio-react--with--tailwind/static/css/main.fd8a8fe2.css",
+    "main.js": "/portfolio-react--with--tailwind/static/js/main.0e4128f6.js",
+    "static/js/453.0a36081d.chunk.js": "/portfolio-react--with--tailwind/static/js/453.0a36081d.chunk.js",
+    "static/media/Bilal.png": "/portfolio-react--with--tailwind/static/media/Bilal.a994e7e0e2471a196652.png",
+    "static/media/Mypic.png": "/portfolio-react--with--tailwind/static/media/Mypic.1392ef18a667b2c296ec.png",
+    "static/media/mbs.png": "/portfolio-react--with--tailwind/static/media/mbs.eb9a6ca65c1e98b44aeb.png",
+    "index.html": "/portfolio-react--with--tailwind/index.html",
+    "main.fd8a8fe2.css.map": "/portfolio-react--with--tailwind/static/css/main.fd8a8fe2.css.map",
+    "main.0e4128f6.js.map": "/portfolio-react--with--tailwind/static/js/main.0e4128f6.js.map",
+    "453.0a36081d.chunk.js.map": "/portfolio-react--with--tailwind/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd8a8fe2.css",
+    "static/js/main.0e4128f6.js"
+  ]
+}
